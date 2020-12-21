@@ -1,38 +1,3 @@
-
-
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>HOME</title>
-	<link rel="stylesheet" type="text/css" href="vendors/bootstrap/bootstrap.min.css">
-	<link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-	<link rel="stylesheet" type="text/css" href="assets/css/dashboard.css">
-	<link rel="stylesheet" type="text/css" href="vendors/modal-video/css/modal-video.min.css">
-
-
-	<script type="text/javascript" src="vendors/jquery/jquery-3.3.1.min.js"></script>
-	<script type="text/javascript" src="vendors/modal-video/js/jquery-modal-video.min.js"></script>
-</head>
-
-<body>
 <?php
-	include_once('login.php');
-		?>
-		<script type="text/javascript" src="vendors/jquery/popper.min.js"></script>
-		<script type="text/javascript" src="vendors/bootstrap/bootstrap.min.js"></script>
-		<script type="text/javascript" src="assets/js/dashboard.js"></script>
 
-		<script>
-			$(".video-modal-trigger").modalVideo({
-				youtube:{
-					controls:0,
-					nocookie: true
-				}
-			});
-		</script>
-	</body>
-
-	</html>
+include_once('login.html');
