@@ -5,11 +5,20 @@
     text-decoration: none;
     font-family: tahoma, 'Open Sans', 'san-serif';
 }
+*:focus{
+    outline: none;
+    
+}
 
 body {
     /* background-image: url('asset/img/bg1.jpg');
     background-repeat: no-repeat;
     height: 100vh; */
+}
+
+input:focus,button:focus,button:active,textarea:focus,{
+    outline: 0 !important;
+    border: 0 !important;
 }
 
 .login-container {
