@@ -668,7 +668,7 @@
 				</div>
 				<div class="card-footer bg-white">
 					<button class="btn btn-secondary close-modal text-10">Close</button>
-					<a href="login.html" class="btn btn-danger text-10">Logout</a>
+					<a href="/" class="btn btn-danger text-10">Logout</a>
 				</div>
 			</div>
 		</div>

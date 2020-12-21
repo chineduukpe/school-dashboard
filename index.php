@@ -1,3 +1,5 @@
+
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -16,8 +18,9 @@
 </head>
 
 <body>
-	
-		
+<?php
+	include_once('login.php');
+		?>
 		<script type="text/javascript" src="vendors/jquery/popper.min.js"></script>
 		<script type="text/javascript" src="vendors/bootstrap/bootstrap.min.js"></script>
 		<script type="text/javascript" src="assets/js/dashboard.js"></script>
