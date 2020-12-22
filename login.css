@@ -183,7 +183,8 @@ input:focus,button:focus,button:active,textarea:focus,{
 	padding: 5px 30px;
 	color: #680000;	
 	font-size: 14pt;
-	width: 80%;
+	width: 65%;
+    text-align: center;
 /*	background: #fff;
 	font-size: 12pt;*/
 	cursor: pointer;

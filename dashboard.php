@@ -31,7 +31,7 @@
 			</div>
 			<ul class="menu">
 				<li class="menu-item">
-					<i class="fa fa-home"></i><a href="javascript:;"> Home</a>
+					<i class="fa fa-home"></i><a href="http://slidlanding-1.herokuapp.com"> Site</a>
 				</li>
 				<li class="menu-item">
 					<i class="fa fa-user"></i><a href="javascript:;"> Students</a>
